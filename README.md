@@ -30,5 +30,8 @@ so much!"
 */
 ```
 
+## Run an example
+Downlowd the repo, then execute `npm run example` on it
+
 ## Contributing
 You're clairy welcome! Join the [github repo](https://github.com/GreepTheSheep/auto-line-breaks)
