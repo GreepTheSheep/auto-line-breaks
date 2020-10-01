@@ -33,6 +33,9 @@ so much!"
 */
 ```
 
+### Usage example
+soon™️
+
 ## Run an example
 Downlowd the repo, then execute `npm run example` on it
 
