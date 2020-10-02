@@ -17,9 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/GreepTheSheep/auto-line-breaks.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/" 
-  },
   "author": "Greep",
   "license": "MIT",
   "bugs": {
