@@ -19,9 +19,6 @@
   },
   "author": "Greep",
   "license": "MIT",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/GreepTheSheep"
-  },
   "bugs": {
     "url": "https://github.com/GreepTheSheep/auto-line-breaks/issues"
   },
