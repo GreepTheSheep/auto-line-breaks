@@ -1,8 +1,11 @@
 # auto-line-breaks
-A Node.js extension that adds automatically line breaks
+A npm package that adds automatically line breaks in a string
 
 ### Why?
 Because I using it for adding lines in a discord.js bot that makes text in a part of a picture
+
+### What does it does?
+The called function will use your string, split then put in a array of strings, then the array will be transformed into a string and use join() to be a line break
 
 ## Utilisation:
 Simply call the module with the require:
@@ -29,6 +32,9 @@ I love you -
 so much!"
 */
 ```
+
+### Usage example
+soon™️
 
 ## Run an example
 Downlowd the repo, then execute `npm run example` on it
