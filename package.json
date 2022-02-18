@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/GreepTheSheep/auto-line-breaks#readme",
   "devDependencies": {
-    "prompt": "^1.2.0"
+    "prompt": "^1.2.2"
   }
 }
